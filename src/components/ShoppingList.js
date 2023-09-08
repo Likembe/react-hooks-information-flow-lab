@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import Item from "./Item";
+import Filter from "./Filter";
 
 function ShoppingList({ items }) {
   const [selectedCategory, setSelectedCategory] = useState("All");
@@ -29,6 +30,7 @@ function ShoppingList({ items }) {
           <Item key={item.id} name={item.name} category={item.category} />
         ))}
       </ul>
+      
     </div>
   );
 }

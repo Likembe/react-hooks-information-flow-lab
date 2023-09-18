@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-hooks-information-flow-lab/static/css/main.e613cabb.css",
+    "main.js": "/react-hooks-information-flow-lab/static/js/main.e34ec4a2.js",
+    "index.html": "/react-hooks-information-flow-lab/index.html",
+    "main.e613cabb.css.map": "/react-hooks-information-flow-lab/static/css/main.e613cabb.css.map",
+    "main.e34ec4a2.js.map": "/react-hooks-information-flow-lab/static/js/main.e34ec4a2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e613cabb.css",
+    "static/js/main.e34ec4a2.js"
+  ]
+}
